@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#bq-1,#bq-2,#bq-3
+{
+	margin-top:20px;
+	padding:15px;
+	background-color:#8ffe;
+	border-left:8px solid green;
+	max-width:600px;
+	height:50px;
+}
